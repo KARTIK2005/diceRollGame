@@ -197,4 +197,11 @@
     .gate-txt h1{
         font-size: 50px;
     }
+    .random{
+        height: 220px;
+        width: 220px;
+    }
+    .submit-bg{
+        margin-bottom: 40px;
+    }
 }
