@@ -36,9 +36,9 @@
     align-items: center;
 }
 
-.gate-txt {
+.gate-txt h1 {
     text-align: center;
-    font-size: 35px;
+    font-size: 75px;
 }
 
 .gate2 {
@@ -192,4 +192,9 @@
   .dice{
     flex-direction: column;
   }  
+}
+@media (max-width: 500px){
+    .gate-txt h1{
+        font-size: 50px;
+    }
 }
